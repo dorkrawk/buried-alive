@@ -1,0 +1,15 @@
+{
+	"name": "Buried Alive",
+	"version": "0.1",
+	"description": "Buried Alive bookmarks page that you don't want to keep bookmarked.",
+	"homepage_url": "http://www.dinosaurseateverybody.com",
+	"options_page": "options.html",
+	"browser_action": {
+		"default_icon": "images/icon.png",
+		"default_title": "Buried Alive",
+		"default_popup": "list.html"
+	},
+	"permissions": [
+		"tabs"
+	]
+}
